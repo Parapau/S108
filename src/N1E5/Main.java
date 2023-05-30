@@ -9,7 +9,7 @@ public class Main {
 			return dub;
 		};
 		
-		tenirPi.getPiValue(3.1415);
+		System.out.println(tenirPi.getPiValue(3.1415));
 		
 	}
 }

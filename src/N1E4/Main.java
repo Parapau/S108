@@ -9,9 +9,4 @@ public class Main {//crec que aixo ja ho havia fet aixi abans
 		List<String> llista = new ArrayList<String>(Arrays.asList("Gener", "Febrer", "Març", "Abril", "Maig", "Juny", "Juliol", "Agost", "Setermbre", "Octubre", "Novembre", "Desembre"));
 		llista.forEach(System.out::println);
 	}
-	
-	
-	public static void printejar (String s) {
-		System.out.println(s);
-	}
 }

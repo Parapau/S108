@@ -19,13 +19,6 @@ public class Metode {
 		};
 		
 		
-		/*
-		llista.forEach(i ->{
-			retorn += funcio.senaritzador(i);//no se si es pot fer aixo d'alguna manera
-		});
-		*/
-		
-		
 		for (int i : llista) {
 			retorn += funcio.senaritzador(i);
 		}
